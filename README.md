@@ -7,4 +7,4 @@ Este es un conjunto de datos que consta de 21551 caras de anime extraídas de ww
 
 ## Referencias
 
-- [Página oficial del conjunto de datos CelebA](https://keras.io/examples/generative/dcgan_overriding_train_step/)
+- [keras dcgan face generator](https://keras.io/examples/generative/dcgan_overriding_train_step/)
