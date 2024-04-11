@@ -1,4 +1,4 @@
-![anime](attachment:image.png)
+![anime](anime.png)
 
 Este proyecto se centra en utilizar una Deep Convolutional Generative Adversarial Network (DCGAN), una arquitectura de red neuronal especialmente diseñada para la generación de imágenes realistas. La elección de una DCGAN se debe a su capacidad para capturar las características de alta resolución y las estructuras de las imágenes, lo que la hace ideal para la generación de caras de anime detalladas y convincentes.
 
